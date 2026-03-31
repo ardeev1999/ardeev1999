@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Привет, я Алексей
 
-<!--
-**ardeev1999/ardeev1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android-разработчик (Kotlin) и начинающий бэкендер (Python).  
+Люблю создавать удобные приложения и разбираться, как всё работает под капотом.
 
-Here are some ideas to get you started:
+## 🔧 Мой стек
+- **Мобильная разработка:** Kotlin, Android SDK, Jetpack Compose
+- **Backend:** Python, Django, FastAPI (в процессе)
+- **Базы данных:** PostgreSQL, SQLite
+- **Инструменты:** Git, GitHub Actions, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Статистика
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ardeev1999&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📫 Связаться со мной
+- Telegram: [@ardeev1999](https://t.me/ardeev1999)
+- Email: ardeev1999@example.com (укажите реальный)
+
+> ⚡ Сейчас работаю над: улучшением InventoryApp2 и изучением Python-фреймворков.
