@@ -1,4 +1,4 @@
-# 👋 Привет, я Алексей
+# 👋 Привет, я Вячеслав
 
 Android-разработчик (Kotlin) и начинающий бэкендер (Python).  
 Люблю создавать удобные приложения и разбираться, как всё работает под капотом.
@@ -13,7 +13,7 @@ Android-разработчик (Kotlin) и начинающий бэкендер
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ardeev1999&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Связаться со мной
-- Telegram: [@ardeev1999](https://t.me/ardeev1999)
-- Email: ardeev1999@example.com (укажите реальный)
+- Telegram: [@vyachis1ave](https://t.me/vyachis1ave)
+- Email: ardeev1999@gmail.com 
 
 > ⚡ Сейчас работаю над: улучшением InventoryApp2 и изучением Python-фреймворков.
